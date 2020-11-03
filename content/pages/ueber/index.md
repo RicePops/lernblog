@@ -1,13 +1,11 @@
 +++
 title = "Über mich"
 draft = false
-description = "Seite über mich"
 image = ""
+description = "Seite über mich"
 +++
 ![](/img/default-author.png)
 
-## Vorname Nachname
-
-info@lernblog.ch
+## Suona
 
 Beschreibung, wer ich bin...
