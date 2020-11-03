@@ -1,8 +1,7 @@
 +++
 headless = true
-icon = ""
-logo = ""
+icon = "/media/logo.png"
+logo = "/media/logo.png"
 image = ""
-color = ""
+color = "#00DCFD"
 +++
-
